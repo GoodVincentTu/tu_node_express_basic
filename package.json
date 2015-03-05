@@ -1,6 +1,7 @@
 {
   "name": "basic_express_app",
   "version": "0.0.1",
+  "description": "A sample Node.js app",
   "private": true,
   "main": "app.js",
   "scripts": {
