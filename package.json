@@ -17,5 +17,11 @@
   "repository": {
     "type": "git",
     "url": "https://git.heroku.com/arcane-chamber-8553.git"
-  }
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
 }
